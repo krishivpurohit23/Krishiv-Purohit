@@ -44,3 +44,5 @@
 ## ⚡️ Where to find me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-krishiv--purohit-FF007F?style=for-the-badge&labelColor=0D1117)](https://www.linkedin.com/in/krishiv-purohit/)
+
+![Calm animated waves in navy, indigo-violet, and crimson](assets/footer.svg)
