@@ -1,1 +1,35 @@
+<svg viewBox="0 0 1200 110" width="100%" height="110" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="spideyFooterGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="50%" stop-color="#1e1b4b"/>
+      <stop offset="100%" stop-color="#e62429"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="110" fill="#0d1117"/>
+
+  <path fill="url(#spideyFooterGrad)" fill-opacity="0.32">
+    <animate attributeName="d" dur="14s" repeatCount="indefinite"
+      values="
+        M0,110 L0,48 Q300,28 600,48 T1200,48 L1200,110 Z;
+        M0,110 L0,48 Q300,68 600,48 T1200,48 L1200,110 Z;
+        M0,110 L0,48 Q300,28 600,48 T1200,48 L1200,110 Z" />
+  </path>
+
+  <path fill="url(#spideyFooterGrad)" fill-opacity="0.62">
+    <animate attributeName="d" dur="11s" repeatCount="indefinite"
+      values="
+        M0,110 L0,66 Q300,84 600,66 T1200,66 L1200,110 Z;
+        M0,110 L0,66 Q300,48 600,66 T1200,66 L1200,110 Z;
+        M0,110 L0,66 Q300,84 600,66 T1200,66 L1200,110 Z" />
+  </path>
+
+  <path fill="url(#spideyFooterGrad)" fill-opacity="1">
+    <animate attributeName="d" dur="16s" repeatCount="indefinite"
+      values="
+        M0,110 L0,84 Q300,70 600,84 T1200,84 L1200,110 Z;
+        M0,110 L0,84 Q300,98 600,84 T1200,84 L1200,110 Z;
+        M0,110 L0,84 Q300,70 600,84 T1200,84 L1200,110 Z" />
+  </path>
+</svg>
 
