@@ -10,3 +10,18 @@
 - 📬 **Reach Me:** [LinkedIn](https://www.linkedin.com/in/krishiv-purohit/) 
 - 🎲 **Fun Fact:** I have a habit of turning "I wonder if this is possible" into a project.
 
+## ⚙️ Tech Stack & Tools
+
+![C++, Python, VS Code, Git, GitHub, Linux, Ubuntu, Unity, HTML5, and CSS3](https://skillicons.dev/icons?i=cpp,py,vscode,git,github,linux,ubuntu,unity,html,css&theme=dark&perline=10)
+
+![ROS 2](https://img.shields.io/badge/ROS_2-1b1f27?style=for-the-badge)
+![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-1b1f27?style=for-the-badge)
+![Fusion 360](https://img.shields.io/badge/Fusion_360-1b1f27?style=for-the-badge)
+
+| Area | Skills |
+| --- | --- |
+| Programming languages | C++ · Python |
+| Robotics & embedded systems | ROS 2 · Embedded Systems |
+| Development environment | Visual Studio Code · Git · GitHub · Linux / Ubuntu |
+| Game development & CAD | Unity · Fusion 360 |
+| Web technologies | HTML5 · CSS3 · Basics |
