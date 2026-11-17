@@ -41,3 +41,7 @@
 - 🧠 **Personal Growth** — Curiosity · Learning New Things · Adaptability
 - 🧩 **Problem Solving** — Critical Thinking · Finding New Ways to Solve Problems
 - 🎮 **Hobbies** — Gaming · Music · Movies
+
+## ⚡️ Where to find me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-krishiv--purohit-FF007F?style=for-the-badge&labelColor=0D1117)](https://www.linkedin.com/in/krishiv-purohit/)
