@@ -9,3 +9,4 @@
 - 🔭 **Exploring:** Automation, computer vision, emerging technologies, and new ways to solve real-world problems.
 - 📬 **Reach Me:** [LinkedIn](https://www.linkedin.com/in/krishiv-purohit/) 
 - 🎲 **Fun Fact:** I have a habit of turning "I wonder if this is possible" into a project.
+
