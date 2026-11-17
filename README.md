@@ -1,1 +1,1 @@
-![Animated profile banner](assets/banner.svg)
+![Animated profile banner](assets/banner.svg?v=2)
