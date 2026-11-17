@@ -1,1 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Quiet web — a Spider-Verse-inspired welcome</title>
+  <desc id="desc">Ah, a visitor! How unexpected. You're welcome, I guess. Breaking things, fixing them, and occasionally calling it progress. Everything is a work in progress — including this introduction. Silver corner webs, drifting crimson-to-violet waves, and a hanging neon spider.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#121418"/></linearGradient>
+    <linearGradient id="wave" x1="0" x2="1"><stop stop-color="#e62429"/><stop offset=".49" stop-color="#ff007f"/><stop offset=".8" stop-color="#6a0dad"/><stop offset="1" stop-color="#3b096c"/></linearGradient>
+    <filter id="waveGlow" x="-10%" y="-60%" width="120%" height="220%"><feGaussianBlur stdDeviation="8"/></filter>
+    <filter id="neon" x="-100%" y="-70%" width="300%" height="240%" color-interpolation-filters="sRGB">
+      <feDropShadow dx="-3" dy="0" stdDeviation="1.3" flood-color="#00f0ff" flood-opacity=".9"/>
+      <feDropShadow dx="3" dy="0" stdDeviation="1.8" flood-color="#ff00a0" flood-opacity=".95"/>
+    </filter>
+    <clipPath id="frame"><path d="M0 0H1200V300H0Z"/></clipPath>
+    <path id="waveShape" d="M-100 225 C100 185 300 185 500 225 S900 265 1300 210 V320H-100Z">
+      <animate attributeName="d" dur="11s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.5;1" keySplines=".42 0 .58 1;.42 0 .58 1" values="M-100 225 C100 185 300 185 500 225 S900 265 1300 210 V320H-100Z;M-100 210 C100 260 300 260 500 215 S900 180 1300 225 V320H-100Z;M-100 225 C100 185 300 185 500 225 S900 265 1300 210 V320H-100Z"/>
+    </path>
+  </defs>
+  <g clip-path="url(#frame)">
+    <path fill="url(#background)" d="M0 0H1200V300H0Z"/>
+    <g fill="none" stroke="#4a5058" stroke-width=".7" opacity=".65">
+      <g><path d="M 38 0 Q 31.54 12.920000000000002 26.866 26.866 Q 12.920000000000002 31.54 0 38"/><path d="M 74 0 Q 61.419999999999995 25.16 52.318 52.318 Q 25.16 61.419999999999995 0 74"/><path d="M 112 0 Q 92.96 38.080000000000005 79.184 79.184 Q 38.080000000000005 92.96 0 112"/><path d="M 153 0 Q 126.99 52.02 108.17099999999999 108.17099999999999 Q 52.02 126.99 0 153"/><path d="M 197 0 Q 163.51 66.98 139.279 139.279 Q 66.98 163.51 0 197"/><path d="M 0 0 L 205 0"/><path d="M 0 0 L 194.96658584050647 63.34848384686422"/><path d="M 0 0 L 165.84848384686424 120.495976719957"/><path d="M 0 0 L 120.495976719957 165.84848384686424"/><path d="M 0 0 L 63.34848384686423 194.96658584050647"/><path d="M 0 0 L 1.255262969126037e-14 205"/></g>
+      <g transform="translate(1200 0) scale(-1 1)"><path d="M 38 0 Q 31.54 12.920000000000002 26.866 26.866 Q 12.920000000000002 31.54 0 38"/><path d="M 74 0 Q 61.419999999999995 25.16 52.318 52.318 Q 25.16 61.419999999999995 0 74"/><path d="M 112 0 Q 92.96 38.080000000000005 79.184 79.184 Q 38.080000000000005 92.96 0 112"/><path d="M 153 0 Q 126.99 52.02 108.17099999999999 108.17099999999999 Q 52.02 126.99 0 153"/><path d="M 197 0 Q 163.51 66.98 139.279 139.279 Q 66.98 163.51 0 197"/><path d="M 0 0 L 205 0"/><path d="M 0 0 L 194.96658584050647 63.34848384686422"/><path d="M 0 0 L 165.84848384686424 120.495976719957"/><path d="M 0 0 L 120.495976719957 165.84848384686424"/><path d="M 0 0 L 63.34848384686423 194.96658584050647"/><path d="M 0 0 L 1.255262969126037e-14 205"/></g>
+    </g>
+    <g fill="url(#wave)">
+      <use href="#waveShape" opacity=".32" transform="translate(0 -8)" filter="url(#waveGlow)"/>
+      <use href="#waveShape" opacity=".22" transform="translate(0 -10)"/>
+      <path opacity=".4" d="M-100 242 C130 270 310 185 570 225 S1010 260 1300 215 V320H-100Z">
+        <animate attributeName="d" dur="14s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.5;1" keySplines=".42 0 .58 1;.42 0 .58 1" values="M-100 242 C130 270 310 185 570 225 S1010 260 1300 215 V320H-100Z;M-100 220 C130 190 310 260 570 240 S1010 195 1300 242 V320H-100Z;M-100 242 C130 270 310 185 570 225 S1010 260 1300 215 V320H-100Z"/>
+      </path>
+      <path opacity=".88" d="M-100 265 C160 228 340 270 600 250 S1000 225 1300 265 V320H-100Z">
+        <animate attributeName="d" dur="17s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.5;1" keySplines=".42 0 .58 1;.42 0 .58 1" values="M-100 265 C160 228 340 270 600 250 S1000 225 1300 265 V320H-100Z;M-100 248 C160 275 340 230 600 258 S1000 272 1300 242 V320H-100Z;M-100 265 C160 228 340 270 600 250 S1000 225 1300 265 V320H-100Z"/>
+      </path>
+    </g>
+    <g font-family="'Segoe UI', Arial, sans-serif">
+      <text x="60" y="88" fill="#ffffff" font-size="37" font-weight="700">Ah, a visitor! How unexpected. You're welcome, I guess.</text>
+      <text x="60" y="132" fill="#e1e5eb" font-size="28" font-weight="500">Breaking things, fixing them, and occasionally calling it progress.</text>
+      <text x="60" y="172" fill="#cbd2dc" font-size="26" font-weight="500">Everything is a work in progress — including this introduction.</text>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 7;0 0" dur="5s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.5;1" keySplines=".42 0 .58 1;.42 0 .58 1"/>
+      <path d="M1080 -10V122" fill="none" stroke="#ff1744" stroke-width="1" opacity=".85"/>
+      <g transform="translate(1080 136)" filter="url(#neon)" fill="#e8d4ef" stroke="#f2d5ef" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+        <animate attributeName="opacity" values=".72;1;.72" dur="3.4s" repeatCount="indefinite"/>
+        <g fill="none"><path d="M-5 -6L-16 -14L-19 -25M-6 -2L-22 -6L-27 -17M-6 3L-22 8L-28 0M-5 7L-15 17L-17 26M5 -6L16 -14L19 -25M6 -2L22 -6L27 -17M6 3L22 8L28 0M5 7L15 17L17 26"/></g>
+        <ellipse rx="5.5" ry="9" cy="3" stroke="none"/>
+        <circle cy="-8" r="4" stroke="none"/>
+      </g>
+    </g>
+  </g>
+</svg>
+
 
