@@ -29,10 +29,6 @@
 
 ![GitHub contribution streak](https://streak-stats.demolab.com?user=krishivpurohit23&background=0D1117&border=30363D&stroke=30363D&ring=FF007F&fire=E62429&currStreakNum=F0F2F5&sideNums=F0F2F5&currStreakLabel=FF007F&sideLabels=CBD2DC&dates=9BA3AF)
 
-## 🕹️ Contributions, Pac-Man Edition
-
-![Pac-Man eating my GitHub contributions](https://raw.githubusercontent.com/krishivpurohit23/krishivpurohit23/output/pacman-contribution-graph-dark.svg)
-
 ## 🌻 Beyond the Code
 
 - 🗣️ **People Skills** — Communication · Teamwork · Sharing Ideas
@@ -44,5 +40,9 @@
 ## ⚡️ Where to find me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-krishiv--purohit-FF007F?style=for-the-badge&labelColor=0D1117)](https://www.linkedin.com/in/krishiv-purohit/)
+
+## 🕹️ Contributions, Pac-Man Edition
+
+![Pac-Man eating my GitHub contributions](https://raw.githubusercontent.com/krishivpurohit23/krishivpurohit23/output/pacman-contribution-graph-dark.svg)
 
 <img src="assets/footer.svg" alt="Animated wave footer" width="100%">
