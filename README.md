@@ -25,3 +25,11 @@
 | Development environment | Visual Studio Code · Git · GitHub · Linux / Ubuntu |
 | Game development & CAD | Unity · Fusion 360 |
 | Web technologies | HTML5 · CSS3 · Basics |
+
+## 📊 GitHub Stats
+
+![GitHub contribution streak](https://streak-stats.demolab.com?user=krishivpurohit23&background=0D1117&border=30363D&stroke=30363D&ring=FF007F&fire=E62429&currStreakNum=F0F2F5&sideNums=F0F2F5&currStreakLabel=FF007F&sideLabels=CBD2DC&dates=9BA3AF)
+
+![Krishiv's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishivpurohit23&show_icons=true&bg_color=0D1117&title_color=FF007F&text_color=CBD2DC&icon_color=E62429&border_color=30363D)
+
+![Top languages across public repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=krishivpurohit23&layout=compact&bg_color=0D1117&title_color=FF007F&text_color=CBD2DC&border_color=30363D)
