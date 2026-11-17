@@ -33,3 +33,11 @@
 ## 🕹️ Contributions, Pac-Man Edition
 
 ![Pac-Man eating my GitHub contributions](https://raw.githubusercontent.com/krishivpurohit23/krishivpurohit23/output/pacman-contribution-graph-dark.svg)
+
+## 🌻 Beyond the Code
+
+- 🗣️ **People Skills** — Communication · Teamwork · Sharing Ideas
+- 🎨 **Creative Side** — Creativity · Design · Thinking Outside the Box
+- 🧠 **Personal Growth** — Curiosity · Learning New Things · Adaptability
+- 🧩 **Problem Solving** — Critical Thinking · Finding New Ways to Solve Problems
+- 🎮 **Hobbies** — Gaming · Music · Movies
