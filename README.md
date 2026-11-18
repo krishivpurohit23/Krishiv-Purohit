@@ -34,7 +34,6 @@
 ![ROS 2](https://img.shields.io/badge/ROS_2-1b1f27?style=for-the-badge)
 ![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-1b1f27?style=for-the-badge)
 ![Fusion 360](https://img.shields.io/badge/Fusion_360-1b1f27?style=for-the-badge)
-![Photoshop](https://img.shields.io/badge/Photoshop-1b1f27?style=for-the-badge)
 ![Canva](https://img.shields.io/badge/Canva-1b1f27?style=for-the-badge)
 ![LaTeX](https://img.shields.io/badge/LaTeX-1b1f27?style=for-the-badge)
 
