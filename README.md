@@ -18,14 +18,16 @@
 </p>
 
 
+## 🧑‍💻 About Me
+
 **Hey, I'm Krishiv Purohit! — a Computer Science undergrad.** A curious mind exploring the worlds of code, robotics, and AI. Always learning, experimenting, and finding new ways to bring ideas to life.
 
-## 🧑‍💻 About Me
+
 
 - 🌱 **Learning:** Hardware-software integration, embedded systems, and robotics.
 - 🛠️ **Building:** Experimenting with robotics, AR/VR applications, and turning random ideas into working prototypes.
 - 🔭 **Exploring:** Automation, computer vision, emerging technologies, and new ways to solve real-world problems.
-- 🎲 **Fun Fact:** I have a habit of turning "I wonder if this is possible" into a project.
+- 🎲 **Fun Fact:** I like solving problems, including the ones I create myself.
 
 ## ⚙️ Tech Stack & Tools
 
@@ -53,13 +55,13 @@
 - 🎨 **Creative Side** — Creativity · Design · Thinking Outside the Box
 - 🧠 **Personal Growth** — Curiosity · Learning New Things · Adaptability
 - 🧩 **Problem Solving** — Critical Thinking · Finding New Ways to Solve Problems
-- 🎮 **Hobbies** — Gaming · Music · Movies
+- 🎮 **Hobbies** — Gaming · Music · Movies · Wordplay
 
 
 
 
 
-## 🕹️ Contributions, Pac-Man Edition
+## 🕹️ Github Activity 
 
 ![Pac-Man eating my GitHub contributions](https://raw.githubusercontent.com/krishivpurohit23/krishivpurohit23/output/pacman-contribution-graph-dark.svg)
 
