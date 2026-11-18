@@ -1,5 +1,6 @@
 ![Animated profile banner](https://raw.githubusercontent.com/krishivpurohit23/krishivpurohit23/bd1e9250675c50abefd88c1bda2a9170e6933bec/assets/banner.svg)
 
+<br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/krishiv-purohit/">
@@ -13,8 +14,7 @@
   </a>
 </p>
 
-
-
+<br>
 
 ## 🧑‍💻 A Brief Info
 
@@ -27,6 +27,8 @@
 - 🔭 **Exploring:** Automation, computer vision, emerging technologies, and new ways to solve real-world problems.
 - 🎲 **Fun Fact:** I like solving problems, including the ones I create myself.
 
+<br>
+
 ## ⚙️ Tech Stack & Tools
 
 ![Tech stack icons](https://skillicons.dev/icons?i=cpp,py,vscode,git,github,linux,ubuntu,unity,blender,html,css,mysql,figma&theme=dark&perline=13)
@@ -36,6 +38,8 @@
 ![Fusion 360](https://img.shields.io/badge/Fusion_360-1b1f27?style=for-the-badge)
 ![Canva](https://img.shields.io/badge/Canva-1b1f27?style=for-the-badge)
 ![LaTeX](https://img.shields.io/badge/LaTeX-1b1f27?style=for-the-badge)
+
+<br>
 
 | Area | Skills |
 | --- | --- |
@@ -48,9 +52,13 @@
 | Design & Creative Tools | Figma · Canva |
 | Documentation & Typesetting | LaTeX |
 
+<br>
+
 ## 📊 GitHub Stats
 
 ![GitHub contribution streak](https://streak-stats.demolab.com?user=krishivpurohit23&background=0D1117&border=30363D&stroke=30363D&ring=FF007F&fire=E62429&currStreakNum=F0F2F5&sideNums=F0F2F5&currStreakLabel=FF007F&sideLabels=CBD2DC&dates=9BA3AF)
+
+<br>
 
 ## 🌻 Beyond the Code
 
@@ -59,6 +67,8 @@
 - 🧠 **Personal Growth** — Curiosity · Learning New Things · Adaptability
 - 🧩 **Problem Solving** — Critical Thinking · Finding New Ways to Solve Problems
 - 🎮 **Hobbies** — Gaming · Music · Movies · Wordplay
+
+<br>
 
 ## 🕹️ Github Activity 
 
