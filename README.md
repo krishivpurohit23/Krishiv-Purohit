@@ -1,5 +1,23 @@
 ![Animated profile banner](https://raw.githubusercontent.com/krishivpurohit23/krishivpurohit23/bd1e9250675c50abefd88c1bda2a9170e6933bec/assets/banner.svg)
 
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/krishiv-purohit/">
+    <img src="https://img.shields.io/badge/LinkedIn-krishiv--purohit-FF007F?style=for-the-badge&labelColor=0D1117" alt="LinkedIn"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/krishivpurohit23?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Projects-FF007F?style=for-the-badge&amp;labelColor=0D1117&amp;logo=github&amp;logoColor=white" alt="Explore my projects on GitHub">
+  </a>
+</p>
+
+<p align="center">
+  <i>For more unnecessary information about me. 👀</i>
+</p>
+
+
 **Hey, I'm Krishiv Purohit! — a Computer Science undergrad.** A curious mind exploring the worlds of code, robotics, and AI. Always learning, experimenting, and finding new ways to bring ideas to life.
 
 ## 🧑‍💻 About Me
@@ -37,9 +55,9 @@
 - 🧩 **Problem Solving** — Critical Thinking · Finding New Ways to Solve Problems
 - 🎮 **Hobbies** — Gaming · Music · Movies
 
-## ⚡️ Where to find me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-krishiv--purohit-FF007F?style=for-the-badge&labelColor=0D1117)](https://www.linkedin.com/in/krishiv-purohit/)
+
+
 
 ## 🕹️ Contributions, Pac-Man Edition
 
