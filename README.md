@@ -56,7 +56,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub contribution streak](https://streak-stats.demolab.com?user=krishivpurohit23&background=0D1117&border=30363D&stroke=30363D&ring=FF007F&fire=E62429&currStreakNum=F0F2F5&sideNums=F0F2F5&currStreakLabel=FF007F&sideLabels=CBD2DC&dates=9BA3AF)
+![GitHub contribution streak](https://streak-stats.demolab.com?user=krishivpurohit23&background=0D1117&border=30363D&stroke=30363D&ring=FF007F&fire=E62429&currStreakNum=F0F2F5&sideNums=F0F2F5&currStreakLabel=FF007F&sideLabels=CBD2DC&dates=9BA3AF&v=2)
 
 <br>
 
