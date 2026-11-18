@@ -29,19 +29,25 @@
 
 ## ⚙️ Tech Stack & Tools
 
-![C++, Python, VS Code, Git, GitHub, Linux, Ubuntu, Unity, HTML5, and CSS3](https://skillicons.dev/icons?i=cpp,py,vscode,git,github,linux,ubuntu,unity,html,css&theme=dark&perline=10)
+![C++, Python, VS Code, Git, GitHub, Linux, Ubuntu, Unity, Blender, HTML5, CSS3, MySQL, and Figma](https://skillicons.dev/icons?i=cpp,py,vscode,git,github,linux,ubuntu,unity,blender,html,css,mysql,figma&theme=dark&perline=7)
 
 ![ROS 2](https://img.shields.io/badge/ROS_2-1b1f27?style=for-the-badge)
 ![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-1b1f27?style=for-the-badge)
 ![Fusion 360](https://img.shields.io/badge/Fusion_360-1b1f27?style=for-the-badge)
+![Photoshop](https://img.shields.io/badge/Photoshop-1b1f27?style=for-the-badge)
+![Canva](https://img.shields.io/badge/Canva-1b1f27?style=for-the-badge)
+![LaTeX](https://img.shields.io/badge/LaTeX-1b1f27?style=for-the-badge)
 
 | Area | Skills |
 | --- | --- |
-| Programming languages | C++ · Python |
-| Robotics & embedded systems | ROS 2 · Embedded Systems |
-| Development environment | Visual Studio Code · Git · GitHub · Linux / Ubuntu |
-| Game development & CAD | Unity · Fusion 360 |
-| Web technologies | HTML5 · CSS3 · Basics |
+| Programming Languages | C++ · Python |
+| Robotics & Embedded Systems | ROS 2 · Embedded Systems |
+| Development Environment | Visual Studio Code · Git · GitHub · Linux / Ubuntu |
+| Game Development & CAD | Unity · Fusion 360 · Blender |
+| Web Technologies | HTML5 · CSS3 · Basics |
+| Database | MySQL |
+| Design & Creative Tools | Figma · Canva |
+| Documentation & Typesetting | LaTeX |
 
 ## 📊 GitHub Stats
 
