@@ -29,7 +29,7 @@
 
 ## ⚙️ Tech Stack & Tools
 
-![C++, Python, VS Code, Git, GitHub, Linux, Ubuntu, Unity, Blender, HTML5, CSS3, MySQL, and Figma](https://skillicons.dev/icons?i=cpp,py,vscode,git,github,linux,ubuntu,unity,blender,html,css,mysql,figma&theme=dark&perline=7)
+![Tech stack icons](https://skillicons.dev/icons?i=cpp,py,vscode,git,github,linux,ubuntu,unity,blender,html,css,mysql,figma&theme=dark&perline=13)
 
 ![ROS 2](https://img.shields.io/badge/ROS_2-1b1f27?style=for-the-badge)
 ![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-1b1f27?style=for-the-badge)
