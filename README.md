@@ -74,4 +74,10 @@
 
 ![Pac-Man eating my GitHub contributions](https://raw.githubusercontent.com/krishivpurohit23/krishivpurohit23/output/pacman-contribution-graph-dark.svg)
 
+<br>
+
+<p align="center">
+  <img src="assets/python-comic.jpeg" alt="Harry Potter comic with a Python programming joke" width="552">
+</p>
+
 <img src="assets/footer.svg" alt="Animated wave footer" width="100%">
