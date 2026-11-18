@@ -54,15 +54,11 @@
 
 ## 🌻 Beyond the Code
 
-- 🗣️ **People Skills** — Communication · Teamwork · Sharing Ideas
+- 🗣️ **People Skills** — Communication · Teamwork · Conveying Ideas
 - 🎨 **Creative Side** — Creativity · Design · Thinking Outside the Box
 - 🧠 **Personal Growth** — Curiosity · Learning New Things · Adaptability
 - 🧩 **Problem Solving** — Critical Thinking · Finding New Ways to Solve Problems
 - 🎮 **Hobbies** — Gaming · Music · Movies · Wordplay
-
-
-
-
 
 ## 🕹️ Github Activity 
 
