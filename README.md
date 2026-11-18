@@ -18,7 +18,7 @@
 
 ## 🧑‍💻 A Brief Info
 
-**Hey, I'm Krishiv Purohit! — a Computer Science undergrad.** A curious mind exploring the worlds of code, robotics, and AI. Always learning, experimenting, and finding new ways to bring ideas to life.
+**Hey, I'm Krishiv Purohit! - a Computer Science undergrad.** A curious mind exploring the worlds of code, robotics, and AI. Always learning, experimenting, and finding new ways to bring ideas to life.
 
 
 
@@ -62,11 +62,11 @@
 
 ## 🌻 Beyond the Code
 
-- 🗣️ **People Skills** — Communication · Teamwork · Conveying Ideas
-- 🎨 **Creative Side** — Creativity · Design · Thinking Outside the Box
-- 🧠 **Personal Growth** — Curiosity · Learning New Things · Adaptability
-- 🧩 **Problem Solving** — Critical Thinking · Finding New Ways to Solve Problems
-- 🎮 **Hobbies** — Gaming · Music · Movies · Wordplay
+- 🗣️ **People Skills** - Communication · Teamwork · Conveying Ideas
+- 🎨 **Creative Side** - Creativity · Design · Thinking Outside the Box
+- 🧠 **Personal Growth** - Curiosity · Learning New Things · Adaptability
+- 🧩 **Problem Solving** - Critical Thinking · Finding New Ways to Solve Problems
+- 🎮 **Hobbies** - Gaming · Music · Movies · Wordplay
 
 <br>
 
