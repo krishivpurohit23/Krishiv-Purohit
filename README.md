@@ -13,12 +13,10 @@
   </a>
 </p>
 
-<p align="center">
-  <i>For more unnecessary information about me. 👀</i>
-</p>
 
 
-## 🧑‍💻 About Me
+
+## 🧑‍💻 A Brief Info
 
 **Hey, I'm Krishiv Purohit! — a Computer Science undergrad.** A curious mind exploring the worlds of code, robotics, and AI. Always learning, experimenting, and finding new ways to bring ideas to life.
 
